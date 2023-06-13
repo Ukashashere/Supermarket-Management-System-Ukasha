@@ -1,0 +1,5 @@
+  1  coffee  100  2
+  2  juice  30  5
+  3  noodles  150  5
+  4  butter  70  10
+  5  apple  200  10
